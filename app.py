@@ -1,7 +1,5 @@
 import streamlit as st
 import pickle
-from sklearn.linear_model import LinearRegression
-import sklearn as sk
 import numpy as np
 
 st.title("Primer modelo")
